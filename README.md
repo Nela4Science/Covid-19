@@ -2,7 +2,7 @@
 
 In this Jupiter Notebook I go through some useful preprocessing steps for dicom data. 
 
-Dataset: COVID-19 CT Dataset from the Kaggle Competition, which was lunched 
+Dataset: COVID-19 CT Dataset from the Kaggle Competition https://www.kaggle.com/andrewmvd/covid19-ct-scans
 
 
 
