@@ -1,4 +1,4 @@
-# Covid-19
+# Covid-19 CT Preprocessing and 3D Scans Visualization
 
 In this Jupiter Notebook I go through some useful preprocessing steps for dicom data. I use the COVID-19 CT Dataset from the Kaggle Competition, which was lunched 
 
